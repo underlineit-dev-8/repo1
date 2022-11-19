@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 this is my bhavyasri
 hii helo
 
 
+=======
+this is my first demo file123456 branch1
+hii hello
+>>>>>>> branch1
